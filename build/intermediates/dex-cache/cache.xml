@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\warmfire_2\Desktop\SuperVideoPlayer-master\SuperVideoPlayer-master\app\build\intermediates\exploded-aar\SuperVideoPlayer-master\wkvideoplayer\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="f91334a60e690aed1380c3982e9e1ab747abc2b5">
+        <dex dex="C:\Users\warmfire_2\Desktop\SuperVideoPlayer-master\SuperVideoPlayer-master\app\build\intermediates\pre-dexed\debug\classes-04a86302d11fe508d32c12fb96f1cc7f2f67eb60.jar" />
+    </item>
+    <item
+        jar="D:\Android\javasdk\Sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Users\warmfire_2\Desktop\SuperVideoPlayer-master\SuperVideoPlayer-master\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-72e3005f669e03d3ee0a1b820e8ed3c9c6810901.jar" />
+    </item>
+    <item
+        jar="C:\Users\warmfire_2\Desktop\SuperVideoPlayer-master\SuperVideoPlayer-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Users\warmfire_2\Desktop\SuperVideoPlayer-master\SuperVideoPlayer-master\app\build\intermediates\pre-dexed\debug\classes-186a8fd49692120861a86473de809057f5812c1a.jar" />
+    </item>
+    <item
+        jar="C:\Users\warmfire_2\Desktop\SuperVideoPlayer-master\SuperVideoPlayer-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\warmfire_2\Desktop\SuperVideoPlayer-master\SuperVideoPlayer-master\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-c34fd7cf6b960d83fb0c92bb241b3ec4d9866ff7.jar" />
+    </item>
+    <item
+        jar="C:\Users\warmfire_2\Desktop\SuperVideoPlayer-master\SuperVideoPlayer-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\warmfire_2\Desktop\SuperVideoPlayer-master\SuperVideoPlayer-master\app\build\intermediates\pre-dexed\debug\classes-b4da8df239c2aaa3e805d1826172c4474ef6a679.jar" />
+    </item>
+    <item
+        jar="C:\Users\warmfire_2\Desktop\SuperVideoPlayer-master\SuperVideoPlayer-master\app\build\intermediates\exploded-aar\SuperVideoPlayer-master\wkvideoplayer\unspecified\jars\libs\clink210.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="f7ab8272b6817bbfb6f35113f0f51d616cccfd90">
+        <dex dex="C:\Users\warmfire_2\Desktop\SuperVideoPlayer-master\SuperVideoPlayer-master\app\build\intermediates\pre-dexed\debug\clink210-f49f5a6611d5f6a7de3e78d957284ae3b41a20cf.jar" />
+    </item>
+
+</items>
